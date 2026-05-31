@@ -93,3 +93,4 @@ TEST(SumPrimeTest, LargeBoundary) {
     uint64_t expected = 142913828922ULL;
     EXPECT_EQ(result, expected);
 }
+
